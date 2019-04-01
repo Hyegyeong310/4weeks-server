@@ -1,0 +1,15 @@
+version: '3'
+services:
+  server:
+    image: pjj0714/server3
+    volumes:
+      - ~/gelato-codestates/server:/app/server
+    ports:
+      - '38380:38380'
+
+  client:
+    image: pjj0714/cli3
+    volumes:
+      - ~/gelato-codestates-partner/admin:/app/admin
+    ports:
+      - '9090:9090'
