@@ -2,9 +2,9 @@
 
 - **_2019, Full-Stack Developer_**
 - 데이터를 기반으로 한 대한민국 네일샵 제휴 후보군 관리 시스템
-  [[서비스 이용하기]](https://codelab-no028chbo.now.sh/)
-  [[서비스 발표 슬라이드]](http://slides.com/betty310/deck-1)
-  [[기술 발표 슬라이드]](https://slides.com/betty310/deck-2#/)
+  - [[서비스 이용하기]](https://codelab-no028chbo.now.sh/)
+  - [[서비스 발표 슬라이드]](http://slides.com/betty310/deck-1)
+  - [[기술 발표 슬라이드]](https://slides.com/betty310/deck-2#/)
 
 [Back-end]
 
